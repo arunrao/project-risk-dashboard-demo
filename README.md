@@ -6,7 +6,7 @@ A production-grade React application for analyzing and visualizing project portf
 
 The Project Risk Dashboard allows PMO teams to upload project data via CSV, analyze schedule and cost variances, and augment the analysis using Gemini AI. It provides a mission-control style interface to view risk distributions, drill down into specific project risks, and generate executive summaries.
 
-![Dashboard Preview](playwright/debug.png) *(Note: Add a real screenshot if desired)*
+![Dashboard Preview](./public/assets/dashboard-preview.png)
 
 ## Features
 
