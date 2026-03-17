@@ -1,0 +1,21 @@
+Project Name,Owner,Start Date,End Date,% Complete,Budget,Actual Spend,Status,Notes
+ERP System Migration,Sandra Ortiz,2024-06-01,2026-03-31,78,1250000,1187500,At Risk,Integration testing phase revealing data mapping conflicts with legacy GL system. Vendor support response times have slowed.
+Mobile App Redesign,James Patel,2025-01-15,2026-04-30,45,320000,198400,On Track,UX research complete. Component library in development. Accessibility audit scheduled for April.
+Data Warehouse Consolidation,Priya Nair,2024-09-01,2026-02-28,92,875000,962500,Delayed,Final migration window missed due to prod freeze. Rescheduled for March 15. Stakeholder sign-off pending from Finance.
+Customer Portal v2,Marcus Webb,2025-03-01,2026-06-30,22,540000,145800,On Track,Discovery phase complete. API design review in progress. No blockers reported.
+Vendor Onboarding Automation,Leila Okonkwo,2024-11-01,2026-01-31,88,210000,231000,Blocked,Compliance review from Legal has been pending 6 weeks. Cannot release to production without sign-off. Escalation requested.
+Cybersecurity Audit & Remediation,Derek Huang,2025-02-01,2026-05-31,38,445000,213600,On Track,Phase 1 audit complete. 14 critical findings logged. Remediation sprints underway. Pen test scheduled for May.
+Supply Chain Analytics Platform,Aisha Mensah,2024-08-15,2025-12-31,97,680000,734400,Delayed,Go-live was December 2025. Final UAT sign-off still pending from 2 regional leads. Budget overrun due to extended contractor engagement.
+HR Self-Service Portal,Tom Gallagher,2025-04-01,2026-08-31,12,295000,47200,On Track,Vendor selected. Requirements workshops scheduled. Project team fully staffed.
+Real-Time Pricing Engine,Sofia Reyes,2024-10-01,2026-03-15,71,920000,1012000,At Risk,Performance benchmarks not yet met at required transaction volume. Infrastructure scaling costs driving budget variance.
+Compliance Reporting Automation,Nathan Brooks,2025-01-01,2026-04-15,55,175000,105000,On Track,Three of five report modules complete. Regulatory mapping reviewed by Legal. On schedule for Q2 delivery.
+Customer Data Platform (CDP),Yuki Tanaka,2024-07-01,2026-02-28,85,1100000,1254000,Blocked,Identity resolution vendor contract dispute. Legal review ongoing. 3 downstream projects dependent on CDP completion.
+Field Service Management Upgrade,Rosa Delgado,2025-05-01,2026-09-30,8,380000,45600,On Track,Kickoff complete. Current-state process mapping in progress. No issues flagged.
+API Gateway Modernization,Chris Adeyemi,2024-12-01,2026-04-30,48,520000,333800,At Risk,Two engineering leads departed in January. Backfill in progress. Timeline impact being assessed.
+Predictive Maintenance ML Model,Ingrid Solberg,2025-02-15,2026-07-31,29,640000,236800,On Track,Training data pipeline complete. Feature engineering underway. Model validation framework selected.
+Finance Close Acceleration,Brian Nguyen,2024-09-15,2026-01-15,99,290000,318900,Delayed,Project technically complete but hypercare issues with journal entry reconciliation. Post-go-live support extended 60 days. Over budget.
+Retail Inventory Optimization,Fatima Al-Hassan,2025-03-15,2026-08-15,18,415000,99600,On Track,Baseline inventory analysis complete. Replenishment algorithm design underway. Pilot store selection pending.
+Identity & Access Management (IAM),Paul Cromwell,2024-11-15,2026-05-15,52,760000,509200,At Risk,Directory consolidation more complex than scoped. Two business units resistant to SSO adoption. Change management plan being revised.
+Contract Lifecycle Management,Mei Lin,2025-01-20,2026-06-30,33,330000,142900,On Track,Platform configured. Template library 60% complete. Piloting with Procurement team in April.
+IoT Sensor Integration,Ahmad Karimi,2024-08-01,2025-11-30,100,490000,537900,Complete,All 340 sensors live. Dashboards operational. Project closed. Minor budget overrun due to hardware supply delays.
+Executive Reporting Dashboard,Claire Fontaine,2025-06-01,2026-10-31,3,185000,18500,On Track,Project just initiated. Stakeholder interviews scheduled. No risks identified at this stage.
